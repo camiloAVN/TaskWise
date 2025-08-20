@@ -1,7 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-![Home Preview](./src/assets/img/1.png)<br>
-
+<p align="center">
+   ![Home Preview](./src/assets/img/1.png)<br>
+   ![View Task Preview](./src/assets/img/2.png)<br>
+   ![Create Task Preview](./src/assets/img/3.png)<br>
+   ![View Task 2 Preview](./src/assets/img/4.png)<br>
+</p>
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
