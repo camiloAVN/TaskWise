@@ -1,10 +1,23 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-<p align="center">
-   ![Home Preview](./src/assets/img/1.png)<br>
-   ![View Task Preview](./src/assets/img/2.png)<br>
-   ![Create Task Preview](./src/assets/img/3.png)<br>
-   ![View Task 2 Preview](./src/assets/img/4.png)<br>
-</p>
+<div align="center">
+
+### 🏠 Dashboard Section
+![Home Preview](./src/assets/img/1.png)<br>
+*Interactive 3D hero section with dynamic animations*
+
+### 💼 Task Section  
+![Projects Preview](./src/assets/img/2.png)<br>
+*Showcase of featured projects with smooth transitions*
+
+### 🎯Create Task Section
+![Skills Preview](./src/assets/img/3.png)<br>
+*3D visualization of technical skills and expertise*
+
+### 📞 View Task Section
+![Contact Preview](./src/assets/img/4.png)<br>
+*Interactive contact form with 3D elements*
+
+</div>
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
